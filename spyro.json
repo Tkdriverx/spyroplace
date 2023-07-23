@@ -1,18 +1,17 @@
 {
    "contact":"Spyro",
-"templates": [
-{
-  "name": "Spyro",
-  "sources": [
-      "https://i.imgur.com/6OLDizs.png"
-  ]
-  "x": 659,
-  "y": 96
-},
-],
+   "templates": [
+      {
+        "name": "Spyro",
+        "sources": [
+            "https://i.imgur.com/6OLDizs.png"
+        ]
+        "x": 659,
+        "y": 96
+      },
+   ],
    "whitelist":[
    ],
    "blacklist":[
-      
    ]
 }
