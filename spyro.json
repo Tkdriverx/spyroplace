@@ -1,0 +1,18 @@
+{
+   "contact":"",
+"templates": [
+{
+  "name": "Spyro",
+  "sources": [
+      "https://imgur.com/gallery/IkovOgD"
+  ],
+  "x": 0,
+  "y": 0
+},
+],
+   "whitelist":[
+   ],
+   "blacklist":[
+      
+   ]
+}
