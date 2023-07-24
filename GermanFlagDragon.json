@@ -1,0 +1,15 @@
+{
+  "contact": "Spyro",
+  "templates": [
+      {
+        "name": "Spyro",
+        "sources": [
+            "https://i.imgur.com/Tkgvfig.png"
+        ],
+        "x": 1578,
+        "y": 426
+      }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
