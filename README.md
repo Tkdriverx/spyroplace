@@ -18,4 +18,4 @@
 }
 ```
 
-Note: X and Y coordinates must be r/place coordinates +1,000.
+Note: X and Y coordinates must be r/place coordinates x (+1,500, y + 1,000).
