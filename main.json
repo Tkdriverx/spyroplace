@@ -26,12 +26,12 @@
         "y": 976
       },
       {
-        "name": "Zoe",
+        "name": "PrideSpyro",
         "sources": [
-            "https://raw.githubusercontent.com/Tkdriverx/spyroplace/main/zoe.png"
+            "https://raw.githubusercontent.com/Tkdriverx/spyroplace/main/spyro-pridelocation.png"
         ],
-        "x": 1616,
-        "y": 411
+        "x": 722,
+        "y": 1820
       }
   ],
   "whitelist": [],
