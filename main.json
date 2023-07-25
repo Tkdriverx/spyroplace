@@ -24,6 +24,14 @@
         ],
         "x": 2958,
         "y": 976
+      },
+      {
+        "name": "Zoe",
+        "sources": [
+            "https://raw.githubusercontent.com/Tkdriverx/spyroplace/main/zoe.png"
+        ],
+        "x": 1616,
+        "y": 411
       }
   ],
   "whitelist": [],
