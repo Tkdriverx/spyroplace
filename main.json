@@ -2,14 +2,6 @@
   "contact": "Spyro",
   "templates": [
       {
-        "name": "Spyro",
-        "sources": [
-            "https://raw.githubusercontent.com/Tkdriverx/spyroplace/main/spyro-pridelocation.png"
-        ],
-        "x": 721,
-        "y": 1820
-      },
-      {
         "name": "Hidden blue gem",
         "sources": [
             "https://raw.githubusercontent.com/Tkdriverx/spyroplace/main/blue-gem-left.png"
