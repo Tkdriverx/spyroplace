@@ -14,8 +14,8 @@
         "sources": [
             "https://raw.githubusercontent.com/Tkdriverx/spyroplace/main/yellow-gem-left.png"
         ],
-        "x": 0,
-        "y": 35
+        "x": 1,
+        "y": 54
       },
       {
         "name": "Hidden red Gem",
